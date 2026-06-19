@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://plabilek.github.io/zh-portal-zhcw-com/sitemap.xml
